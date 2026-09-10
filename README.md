@@ -2,6 +2,8 @@
 
 An end-to-end MLOps portfolio project that trains, versions, serves, tests, and monitors a customer-churn model.
 
+![MLOps churn prediction demonstration](docs/demo.svg)
+
 ## Business problem
 
 Subscription businesses need to identify customers likely to leave early enough for retention teams to intervene. This system produces a churn probability, risk tier, and actionable reason codes while monitoring model inputs for drift.
